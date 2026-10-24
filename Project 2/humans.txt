@@ -1,0 +1,9 @@
+/* TEAM */
+Developer: Chase Barrett-Brown
+Role: Student Developer
+Location: Perth, Western Australia
+
+/* SITE */
+Project: Terminal Portfolio
+Technologies: HTML, CSS, JavaScript
+Purpose: Personal portfolio website
